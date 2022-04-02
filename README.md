@@ -1,6 +1,6 @@
 # zanaty-refactor
 
-screen shot
+screen shot  
 
 description of the app
 This is an app that helps clients to get more search optimization, online reputation. and social media marketing.
@@ -11,3 +11,4 @@ The alt attibute was used to help exp
 A privacy policy was added
 
 link to the deployed page
+file:///Users/zanaty/Desktop/Coding-Camp/mod1-html/zanaty-refactor/index.html
