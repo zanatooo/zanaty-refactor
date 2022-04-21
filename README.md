@@ -11,5 +11,6 @@ The Search Engine optimization link was not live so it was fixed by fixing the "
 The alt attibute was used to help exp
 A privacy policy was added
 
-link to the deployed page
-file:///Users/zanaty/Desktop/Coding-Camp/mod1-html/zanaty-refactor/index.html
+
+
+[Deployment](https://zanatooo.github.io/zanaty-refactor/)
