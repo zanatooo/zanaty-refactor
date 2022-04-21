@@ -20,4 +20,5 @@ A privacy policy was added
 1. w3schools.com
 
 
-#### Author
+#### Developer
+Mohammed Elzanaty
