@@ -12,5 +12,12 @@ The alt attibute was used to help exp
 A privacy policy was added
 
 
-
+## Repo Links:
 [Deployment](https://zanatooo.github.io/zanaty-refactor/)
+
+
+### Acknowledment
+1. w3schools.com
+
+
+#### Author
